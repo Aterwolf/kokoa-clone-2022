@@ -1,3 +1,3 @@
 # kokoa clone 2022 Update
 
-CSS got so much better!
+my first commit is so exiting!
